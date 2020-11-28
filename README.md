@@ -29,3 +29,13 @@ The formula for calculating beta is the covariance of the return of an asset wit
 ### Market Risk Premium
 From the above components of CAPM, we can simplify the formula to reduce “expected return of the market minus the risk-free rate” to be simply the “market risk premium”.  The market risk premium represents the additional return over and above the risk-free rate, which is required to compensate investors for investing in a riskier asset class. The more volatile a market or an asset class is, the higher the market risk premium will be.
 
+### About the Project
+In this project, I have worked with Walmart (WMT) and S&P (GSPC) market index.
+
+#### Approach
+1. Calculating covariance of security returns (WMT and GSPC)
+2. Calculating covariance of walmart returns with market index returns
+3. Calculating variance of market index returns
+4. Calculating Beta and expected return
+5 Calculate the expected return of WMT using CAPM.
+
